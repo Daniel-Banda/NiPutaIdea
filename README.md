@@ -1,6 +1,6 @@
 # Ni Puta Idea 🧠
 
-> Aprende sin vergüenza, domina sin miedo.  
+> Equivocate rápido.  
 > Porque todos empezamos siendo unos completos **noobs**.
 
 ---
@@ -15,9 +15,9 @@ Aquí no te vamos a vender humo: te enseñamos lo básico, lo práctico y lo que
 ## Nuestra misión
 
 - **Desdramatizar el aprender:** nadie nace sabiendo, y está bien.  
-- **Ser disruptivos, divertidos y reales:** sin vueltas, sin pendejadas.  
-- **Enseñar con respeto y confianza:** sin groserías en el contenido (aunque el nombre sea irreverente).  
-- **Crear una comunidad de aprendices valientes:** los “Ni Puta Ideanos” que avanzan sin miedo.
+- **Ser disruptivos, divertidos y reales:** sin vueltas.  
+- **Enseñar con respeto y confianza:** sin groserías en el contenido (aunque el nombre sugiera lo contrario).  
+- **Crear una comunidad de aprendices valientes:** avanzamos sin miedo.
 
 ---
 
@@ -30,27 +30,11 @@ Aquí no te vamos a vender humo: te enseñamos lo básico, lo práctico y lo que
 
 ---
 
-## Cómo usar este repo
-
-1. Clona el proyecto y explora el contenido.  
-2. Contribuye con ideas, sugerencias o correcciones (sin miedo).  
-3. Despliega la web con Netlify para ver todo en acción.  
-4. Comparte y únete a la comunidad #NiPutaIdea.
-
----
-
 ## Licencia
 
-Este proyecto está bajo licencia **Creative Commons BY-SA 4.0** — puedes compartir y adaptar el contenido, siempre y cuando nos des crédito y mantengas el mismo tipo de licencia.
-
+Este proyecto está bajo licencia **MIT**
 ---
 
-## Contacto
-
-¿Quieres ser parte o tienes dudas?  
-**Daniel** — [tu email o redes]  
-
----
 
 **Ni Puta Idea** — Porque no hay que saberlo todo, solo animarse a empezar.
 
