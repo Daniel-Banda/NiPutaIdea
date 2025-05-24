@@ -1,0 +1,68 @@
+:root {
+    --bg: #F4F1EE;
+    --txt: #2b2b2b;
+    --ama: #e5dc38;
+    --ver: #455036;
+    --cor: #d97d54;
+}
+
+body{
+    background-color: var(--bg);
+}
+
+h2{
+     font-family: "Raleway", sans-serif;
+     line-height: 1.05;
+     font-weight: 800;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.custom-navbar {
+  background-color: var(--ver);
+  position: absolute;
+  opacity: 0.98;
+  padding: 0.75rem 0;
+  z-index: 1000;
+  box-shadow: 0 15px 10px rgba(0, 0, 0, 0.6);
+}
+
+.social-icons a {
+  color: var(--bg);
+  font-size: 1.25rem;
+}
+
+.black-divider {
+  height: 10px;
+  width: 100%;
+  background-color: black;
+  box-shadow: 0 8px 8px rgba(0, 0, 0, 0.8); /* sombra fuerte y bien desplazada hacia abajo */
+}
+
+.logo-ajustable {
+  width: 150px;
+  height: 150px;
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 649px) {
+  .logo-ajustable {
+    width: 80px;
+    height: 80px;
+  }
+}
+
+.navbar-toggler.custom-toggler {
+  border: none;
+  background: transparent;
+  padding: 0.25rem 0.5rem;
+}
+
+.navbar-toggler.custom-toggler i.bi-list {
+  font-size: 1.8rem;
+  color: white;
+  pointer-events: none;
+}
